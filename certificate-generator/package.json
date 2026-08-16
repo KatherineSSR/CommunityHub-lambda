@@ -1,0 +1,9 @@
+{
+  "name": "certificate-generator-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda to generate PDF certificates for CommunityHub",
+  "main": "index.js",
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  }
+}
